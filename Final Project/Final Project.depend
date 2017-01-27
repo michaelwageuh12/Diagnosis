@@ -1,0 +1,452 @@
+# depslib dependency file v1.0
+1450639567 source:e:\education\my fci\second year\first term\programming 2\final project\main.cpp
+	<iostream>
+	"Symptoms.h"
+
+1450639341 e:\education\my fci\second year\first term\programming 2\final project\symptoms.h
+	<string>
+
+1450639512 source:e:\education\my fci\second year\first term\programming 2\final project\symptoms.cpp
+	<iostream>
+	"Symptoms.h"
+
+1450641028 source:e:\education\my fci\second year\first term\programming 2\final project\hospital.cpp
+
+1450640888 source:e:\education\my fci\second year\first term\programming 2\final project\person.cpp
+	"Person.h"
+
+1450640818 e:\education\my fci\second year\first term\programming 2\final project\person.h
+	<iostream>
+	<string>
+
+1450738000 source:e:\final project\code\person.cpp
+	"Person.h"
+
+1450640818 e:\final project\code\person.h
+	<iostream>
+	<string>
+
+1450738249 source:e:\final project\code\department.cpp
+	<string>
+	"Department.h"
+	"Disease.h"
+	"Doctor.h"
+
+1450737953 e:\final project\code\department.h
+	<string>
+	"Doctor.h"
+	"Disease.h"
+
+1450737524 e:\final project\code\doctor.h
+	"Person.h"
+
+1450738321 e:\final project\code\disease.h
+	"Symptoms.h"
+	<string>
+
+1450684327 e:\final project\code\symptoms.h
+	<string>
+
+1450738326 source:e:\final project\code\disease.cpp
+	"Disease.h"
+	"Symptoms.h"
+	<string>
+
+1450665092 source:e:\final project\code\doctor.cpp
+	"Doctor.h"
+	"Person.h"
+
+1450737569 source:e:\final project\code\hospital.cpp
+	<string>
+	"hospital.h"
+	"Department.h"
+
+1450737600 e:\final project\code\hospital.h
+	<string>
+	"Department.h"
+
+1450738688 source:e:\final project\code\main.cpp
+	<bits/stdc++.h>
+	"Hospital.h"
+	"Department.h"
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Disease.h"
+
+1450738406 e:\final project\code\patient.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Symptoms.h"
+	"Patient.h"
+
+1450738433 source:e:\final project\code\patient.cpp
+	<string>
+	"Patient.h"
+
+1450944021 source:e:\final project\code\symptoms.cpp
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451625310 source:c:\users\m\desktop\final project\code\department.cpp
+	<string>
+	"Department.h"
+	"Disease.h"
+	"Doctor.h"
+
+1451487330 c:\users\m\desktop\final project\code\department.h
+	<string>
+	"Doctor.h"
+	"Disease.h"
+
+1451602143 c:\users\m\desktop\final project\code\doctor.h
+	"Person.h"
+
+1451641314 c:\users\m\desktop\final project\code\person.h
+	<iostream>
+	<string>
+
+1451595205 c:\users\m\desktop\final project\code\disease.h
+	"Symptoms.h"
+	<string>
+
+1451476821 c:\users\m\desktop\final project\code\symptoms.h
+	<string>
+
+1451599780 source:c:\users\m\desktop\final project\code\disease.cpp
+	"Disease.h"
+	"Symptoms.h"
+	<string>
+	<iostream>
+
+1451602143 source:c:\users\m\desktop\final project\code\doctor.cpp
+	"Doctor.h"
+	"Person.h"
+
+1451599637 source:c:\users\m\desktop\final project\code\hospital.cpp
+	<string>
+	"hospital.h"
+	"Department.h"
+
+1451599615 c:\users\m\desktop\final project\code\hospital.h
+	<string>
+	"Department.h"
+
+1451595553 source:c:\users\m\desktop\final project\code\patient.cpp
+	<string>
+	"Patient.h"
+
+1451595553 c:\users\m\desktop\final project\code\patient.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Symptoms.h"
+	"Patient.h"
+
+1451641314 source:c:\users\m\desktop\final project\code\person.cpp
+	"Person.h"
+
+1451595861 source:c:\users\m\desktop\final project\code\symptoms.cpp
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451665966 source:c:\users\m\desktop\final project\code\main.cpp
+	<bits/stdc++.h>
+	"Hospital.h"
+	"Department.h"
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Disease.h"
+
+1451625310 source:c:\users\m\desktop\diagnosis\final project\department.cpp
+	<string>
+	"Department.h"
+	"Disease.h"
+	"Doctor.h"
+
+1451487330 c:\users\m\desktop\diagnosis\final project\department.h
+	<string>
+	"Doctor.h"
+	"Disease.h"
+
+1451602143 c:\users\m\desktop\diagnosis\final project\doctor.h
+	"Person.h"
+
+1451641314 c:\users\m\desktop\diagnosis\final project\person.h
+	<iostream>
+	<string>
+
+1451595205 c:\users\m\desktop\diagnosis\final project\disease.h
+	"Symptoms.h"
+	<string>
+
+1451476821 c:\users\m\desktop\diagnosis\final project\symptoms.h
+	<string>
+
+1451599780 source:c:\users\m\desktop\diagnosis\final project\disease.cpp
+	"Disease.h"
+	"Symptoms.h"
+	<string>
+	<iostream>
+
+1451602143 source:c:\users\m\desktop\diagnosis\final project\doctor.cpp
+	"Doctor.h"
+	"Person.h"
+
+1451599637 source:c:\users\m\desktop\diagnosis\final project\hospital.cpp
+	<string>
+	"hospital.h"
+	"Department.h"
+
+1451599615 c:\users\m\desktop\diagnosis\final project\hospital.h
+	<string>
+	"Department.h"
+
+1451665966 source:c:\users\m\desktop\diagnosis\final project\main.cpp
+	<bits/stdc++.h>
+	"Hospital.h"
+	"Department.h"
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Disease.h"
+
+1451595553 c:\users\m\desktop\diagnosis\final project\patient.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Symptoms.h"
+	"Patient.h"
+
+1451595553 source:c:\users\m\desktop\diagnosis\final project\patient.cpp
+	<string>
+	"Patient.h"
+
+1451641314 source:c:\users\m\desktop\diagnosis\final project\person.cpp
+	"Person.h"
+
+1451595861 source:c:\users\m\desktop\diagnosis\final project\symptoms.cpp
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451625310 source:e:\diagnosis\final project\department.cpp
+	<string>
+	"Department.h"
+	"Disease.h"
+	"Doctor.h"
+
+1451487330 e:\diagnosis\final project\department.h
+	<string>
+	"Doctor.h"
+	"Disease.h"
+
+1451602143 e:\diagnosis\final project\doctor.h
+	"Person.h"
+
+1451641314 e:\diagnosis\final project\person.h
+	<iostream>
+	<string>
+
+1451595205 e:\diagnosis\final project\disease.h
+	"Symptoms.h"
+	<string>
+
+1451476821 e:\diagnosis\final project\symptoms.h
+	<string>
+
+1451599780 source:e:\diagnosis\final project\disease.cpp
+	"Disease.h"
+	"Symptoms.h"
+	<string>
+	<iostream>
+
+1451602143 source:e:\diagnosis\final project\doctor.cpp
+	"Doctor.h"
+	"Person.h"
+
+1451599637 source:e:\diagnosis\final project\hospital.cpp
+	<string>
+	"hospital.h"
+	"Department.h"
+
+1451599615 e:\diagnosis\final project\hospital.h
+	<string>
+	"Department.h"
+
+1451693299 source:e:\diagnosis\final project\main.cpp
+	<bits/stdc++.h>
+	"Hospital.h"
+	"Department.h"
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Disease.h"
+
+1451595553 e:\diagnosis\final project\patient.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Symptoms.h"
+	"Patient.h"
+
+1451595553 source:e:\diagnosis\final project\patient.cpp
+	<string>
+	"Patient.h"
+
+1451641314 source:e:\diagnosis\final project\person.cpp
+	"Person.h"
+
+1451595861 source:e:\diagnosis\final project\symptoms.cpp
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451625310 source:e:\education\my fci\second year\first term\programming 2\diagnosis\final project\department.cpp
+	<string>
+	"Department.h"
+	"Disease.h"
+	"Doctor.h"
+
+1451487330 e:\education\my fci\second year\first term\programming 2\diagnosis\final project\department.h
+	<string>
+	"Doctor.h"
+	"Disease.h"
+
+1451602143 e:\education\my fci\second year\first term\programming 2\diagnosis\final project\doctor.h
+	"Person.h"
+
+1451641314 e:\education\my fci\second year\first term\programming 2\diagnosis\final project\person.h
+	<iostream>
+	<string>
+
+1451595205 e:\education\my fci\second year\first term\programming 2\diagnosis\final project\disease.h
+	"Symptoms.h"
+	<string>
+
+1451476821 e:\education\my fci\second year\first term\programming 2\diagnosis\final project\symptoms.h
+	<string>
+
+1451599780 source:e:\education\my fci\second year\first term\programming 2\diagnosis\final project\disease.cpp
+	"Disease.h"
+	"Symptoms.h"
+	<string>
+	<iostream>
+
+1451602143 source:e:\education\my fci\second year\first term\programming 2\diagnosis\final project\doctor.cpp
+	"Doctor.h"
+	"Person.h"
+
+1451599637 source:e:\education\my fci\second year\first term\programming 2\diagnosis\final project\hospital.cpp
+	<string>
+	"hospital.h"
+	"Department.h"
+
+1451599615 e:\education\my fci\second year\first term\programming 2\diagnosis\final project\hospital.h
+	<string>
+	"Department.h"
+
+1451693299 source:e:\education\my fci\second year\first term\programming 2\diagnosis\final project\main.cpp
+	<bits/stdc++.h>
+	"Hospital.h"
+	"Department.h"
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Disease.h"
+
+1451595553 e:\education\my fci\second year\first term\programming 2\diagnosis\final project\patient.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Symptoms.h"
+	"Patient.h"
+
+1451595553 source:e:\education\my fci\second year\first term\programming 2\diagnosis\final project\patient.cpp
+	<string>
+	"Patient.h"
+
+1451641314 source:e:\education\my fci\second year\first term\programming 2\diagnosis\final project\person.cpp
+	"Person.h"
+
+1451595861 source:e:\education\my fci\second year\first term\programming 2\diagnosis\final project\symptoms.cpp
+	<iostream>
+	<string>
+	"Symptoms.h"
+
+1451625310 source:e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\department.cpp
+	<string>
+	"Department.h"
+	"Disease.h"
+	"Doctor.h"
+
+1451487330 e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\department.h
+	<string>
+	"Doctor.h"
+	"Disease.h"
+
+1451602143 e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\doctor.h
+	"Person.h"
+
+1451641314 e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\person.h
+	<iostream>
+	<string>
+
+1451595205 e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\disease.h
+	"Symptoms.h"
+	<string>
+
+1451476821 e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\symptoms.h
+	<string>
+
+1451599780 source:e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\disease.cpp
+	"Disease.h"
+	"Symptoms.h"
+	<string>
+	<iostream>
+
+1451602143 source:e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\doctor.cpp
+	"Doctor.h"
+	"Person.h"
+
+1451599637 source:e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\hospital.cpp
+	<string>
+	"hospital.h"
+	"Department.h"
+
+1451599615 e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\hospital.h
+	<string>
+	"Department.h"
+
+1451693299 source:e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\main.cpp
+	<bits/stdc++.h>
+	"Hospital.h"
+	"Department.h"
+	"Person.h"
+	"Doctor.h"
+	"Patient.h"
+	"Symptoms.h"
+	"Disease.h"
+
+1451595553 e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\patient.h
+	<bits/stdc++.h>
+	"Person.h"
+	"Symptoms.h"
+	"Patient.h"
+
+1451595553 source:e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\patient.cpp
+	<string>
+	"Patient.h"
+
+1451641314 source:e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\person.cpp
+	"Person.h"
+
+1451595861 source:e:\education\my fci\second year\first term\programming 2\final project\diagnosis\final project\symptoms.cpp
+	<iostream>
+	<string>
+	"Symptoms.h"
+

@@ -1,0 +1,14 @@
+Name : MICHAEL
+Gender : M
+Age : 25
+Mobile Number : 01200634332
+
+Name : Michael
+Gender : M
+Age : 25
+Mobile Number : 01200634332
+
+Name : Christina
+Gender : m
+Age : 21
+Mobile Number : 01251

@@ -1,0 +1,15 @@
+Flu    Sneezing Cough Sore.throat Stuffy.nose Headache Wheezing Vomiting      Tamiflu Relenza
+
+Fever     Diarrhea Earache Headache Wheezing Heart.palpitations Neck.pain Vomiting Flu    Aspirin Tylenol
+
+Asthma    Wheezing Cough Short.breath Chest.pain     Cromolyn Tilade
+
+Cancer    Chronic.pain Poor.appetite Vomiting Headache Skin.changes Sores     surgery Hormone.therapy
+
+Anemia    Pale.skin Headache Weakness Brittle.nails Fast.heartbeat Chest.pain     Infed.injection Feosol.oral
+
+Malaria    Diarrhea Headache Vomiting Anemia Profuse.sweating Fever    Chloroquine Doxycycline
+
+Diabetes     Feeling.very.thirsty Urinating Weight.loss Tingling Blurred.vision    Metformin Glipizide
+
+

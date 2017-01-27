@@ -1,0 +1,21 @@
+1 -Sneezing		2 -Cough		3 -Profuse sweating
+
+4 -Sore throat		5 -Stuffy nose		6 -Fever
+
+7 -Headache		8 -Wheezing		9 -Chest pain
+
+10-Vomiting		11-Diarrhea		12-Fast hearbeat	
+
+13-Earache		14-Anemia		15-Brittle nails
+
+16-Heart palpitations	17-Neck pain		18-Weakness		
+
+19-Flu			20-Pale skin            21-Short breath		
+
+22-Chest pain		23-Sores                24-Chronic pain		
+
+25-Poor appetite	26-Skin changes
+						
+		
+
+

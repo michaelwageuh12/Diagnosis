@@ -1,0 +1,4 @@
+Asthma.and.allergy 3
+Blood.disease.and.cancer 2
+Skin.diseases 1
+Endocrine.disease.and.diabetes 1
